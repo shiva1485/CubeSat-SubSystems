@@ -1,2 +1,2 @@
 # CubeSat-SubSystems
-about cubesat
+about cubesat using stm32
